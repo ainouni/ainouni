@@ -1,9 +1,2 @@
-- 👋 Bonjour, je suis Data Analyst diplômé et passionné par l'utilisation de l'analyse de
-données pour résoudre des problèmes complexes et prendre des
-décisions éclairées. Mon expérience en tant qu'enseignant m'a donné
-de solides compétences en communication et en résolution de
-problèmes, et j'ai hâte de mettre ces compétences en pratique dans un
-rôle en tant qu'analyste de données. Je suis motivé, déterminé et j'ai
-hâte de travailler avec une équipe pour atteindre des objectifs
-communs.
+- 👋 Bonjour, j'ai déposé des projets pour montrer mes compétences en matière d'outils d'analyse de données. Ces projets sont disponibles dans la section "répertoires" de mon profil et ils mettent en évidence mon expertise en SQL et Python
 
